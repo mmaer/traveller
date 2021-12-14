@@ -1,0 +1,25 @@
+{
+  "cities": [
+    {
+      "id": 0,
+      "name": "Moscow",
+      "country": "Russia",
+      "visited": true,
+      "wishlist": false
+    },
+    {
+      "id": 1,
+      "name": "London",
+      "country": "United Kingdom",
+      "visited": false,
+      "wishlist": false
+    },
+    {
+      "id": 2,
+      "name": "Saint Petersburg",
+      "country": "Russia",
+      "visited": true,
+      "wishlist": false
+    }
+  ]
+}
